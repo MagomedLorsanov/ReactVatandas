@@ -1,0 +1,99 @@
+
+.outset {
+  cursor: pointer;
+  border: 1px solid rgb(199, 194, 194);
+  margin-top:20px ;
+  margin-bottom: 0px;
+  margin-right: 270px;
+  margin-left: 270px;
+  padding: 150px;
+  background-color: rgba(241, 241, 205, 0.877);
+
+  min-height: 350px;
+ 
+}
+
+.profilecardimagediv{
+  margin:100px 1000px 0 0;padding: 20px;
+  background:#FFF;
+  display:inline-block;border-radius:55%;
+ }
+
+.content {
+  margin-top: -130px;
+ 
+}
+
+.stream-item-header {
+    display: flex;
+    margin-right: 150px;
+}
+.stream-item-header 
+.account-group {
+  color: #14171a;
+
+ display: inline-flex;
+ 
+  flex-shrink: 1;
+  overflow: hidden;
+}
+.avatar, .permalink-header .avatar {
+  float: left;
+  margin-top: -130px;
+  margin-left: -120px;
+  position: absolute;
+}
+.FullNameGroup {
+  display: flex;
+  max-width: 100%;
+}
+
+.fullname {
+  word-break: break-all;
+  color: #14171a;
+  font-size: 14px;
+  font-weight: bold;
+  
+}
+
+
+
+.time {
+  color: #657786;
+  margin-left: 20px;
+  
+}
+.location{
+  color: #1DA1F2;
+  margin-left: 20px;
+}
+.typeOfEmr{
+  color: rgb(202, 17, 17);
+  margin-left: 20px;
+
+}
+.post .card {
+  margin-top: 10px;
+  padding-bottom: 2px;
+}
+.card2 {
+  font-size: 14px;
+  line-height: 1.2858;
+}
+.singlePhoto, .photoContainer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.photoContainer {
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+.img {
+  background-color: #fff;
+  position: absolute;
+}
+
